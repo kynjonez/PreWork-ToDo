@@ -3,9 +3,9 @@ CodePath Assignment
 
 # Project 1 - Kyndall Jones TodoApp
 
-**Kyndall Jones TodoApp is an android app that allows building a todo list and basic todo items management functionality including adding new items, editing and deleting an existing item.
+**Kyndall Jones TodoApp** is an android app that allows building a todo list and basic todo items management functionality including adding new items, editing and deleting an existing item.
 
-Submitted by: Kyndall Jones
+Submitted by: **Kyndall Jones**
 
 Time spent: 31 hours spent in total
 
